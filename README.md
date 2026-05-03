@@ -16,8 +16,11 @@
 - Machine Learning
 - Computer Vision
 - Natural Language Processing
+- NLP
 - MLOps
 - Generative AI
+- Agentic AI
+- AI Automation
 
 ---
 
@@ -89,7 +92,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
   </a>
   <a href="https://scikit-learn.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit/scikit-original.svg" width="45" height="45" alt="Scikit-learn"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn"/>
   </a>
   <a href="https://numpy.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
@@ -99,6 +102,25 @@
   </a>
   <a href="https://jupyter.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
+  </a>
+</p>
+
+---
+
+## Agentic AI / Automation Tools:
+
+<p align="left">
+  <a href="https://www.crewai.com/">
+    <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI"/>
+  </a>
+  <a href="https://www.langchain.com/">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  </a>
+  <a href="https://www.langchain.com/langgraph">
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  </a>
+  <a href="https://n8n.io/">
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
   </a>
 </p>
 
