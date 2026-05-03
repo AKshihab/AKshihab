@@ -37,7 +37,7 @@
     <img src="https://skillicons.dev/icons?i=opencv" width="45" height="45" alt="OpenCV"/>
   </a>
   <a href="https://scikit-learn.org/">
-    <img src="https://skillicons.dev/icons?i=scikit" width="45" height="45" alt="Scikit-learn"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn"/>
   </a>
   <a href="https://www.docker.com/">
     <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/>
